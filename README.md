@@ -1,12 +1,9 @@
 # Day-1-FC-27_Nugraha-Zhafran-Gunawan
 
-# Day-1 TIK Mengajar: Dokumentasi Workshop Pengenalan Akademik
-
-| | |
-|---|---|
-| **Nama Lengkap** | Nugraha Zhafran Gunawan |
-| **Kelompok** | [ISI NAMA KELOMPOK] |
-| **Program Studi** | Teknik Multimedia Digital (TMD), Jurusan Teknik Informatika dan Komputer, Politeknik Negeri Jakarta |
+ **Nama Lengkap** : Nugraha Zhafran Gunawan 
+ **Kelompok** : Kelompok 10 FC 27
+ **Program Studi** : Teknik Multimedia Digital (TMD), Jurusan Teknik Informatika dan Komputer, Politeknik Negeri Jakarta 
+ **Kegiatan** : Day 1 Proyek workshop
 
 ## Deskripsi Repository
 
