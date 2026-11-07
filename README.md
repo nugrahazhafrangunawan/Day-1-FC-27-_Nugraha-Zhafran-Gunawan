@@ -10,35 +10,20 @@
 
 ## Deskripsi Repository
 
-Repository ini berisi dokumentasi kegiatan workshop **Day-1 TIK Mengajar**, yaitu sesi Pengenalan Akademik dan Laboratorium Jurusan TIK. Isinya meliputi daftar materi yang disampaikan, catatan dan rangkuman materi, serta poin-poin penting yang saya pelajari. Semua dokumen ditulis dalam format Markdown agar rapi saat dibuka di GitHub.
+Repository ini berisi dokumentasi kegiatan workshop **Day-1 TIK Mengajar**, yaitu sesi Pengenalan Akademik,Laboratorium Jurusan TIK dan Materi pokoknya adalah workshop From AI to GitHub (prompt engineering, Git, dan GitHub). Isinya meliputi daftar materi yang disampaikan, catatan dan rangkuman materi, poin poin penting serta refleksi pribadi yang saya pelajari dan dapatkan selama **Day-1 TIK Mengajar** berlangsung.
 
 ## Tujuan Repository
 
 - Mendokumentasikan materi workshop Day-1 secara rapi dan terstruktur sebagai bahan tugas.
 - Menjadi catatan belajar pribadi tentang lingkungan akademik, layanan laboratorium, dan tata tertib Jurusan TIK PNJ yang bisa dibuka kembali kapan saja.
-- Memenuhi ketentuan penugasan dari panitia.
+- Mehamahi struktural TIK, kurikulum, dan profil lulusan tiap prodi masing masing sebagai kompas studi maupun magang.
+- Mehmahami dan melatih kemampuan prompting AI secara terstruktur sebagai alat/asisten untuk pembuatan proyek aplikasi dan website.
 
-## Informasi Kegiatan Workshop
+**Informasi Kegiatan Workshop**
 
-- **Nama kegiatan:** TIK Mengajar, Day-1 (Pengenalan Akademik dan Lab TIK)
-- **Penyelenggara:** HIMATIK (Himpunan Mahasiswa Teknik Informatika dan Komputer) Politeknik Negeri Jakarta
-- **Tanggal pelaksanaan:** [ISI TANGGAL]
-- **Tempat:** [ISI TEMPAT]
-- **Gambaran kegiatan:** TIK Mengajar adalah program pengenalan jurusan yang menjadi wadah untuk memahami lingkungan, budaya, dan kehidupan akademik di Jurusan Teknik Informatika dan Komputer, sekaligus membangun kebersamaan dalam keluarga besar TIK PNJ.
+TIK Mengajar adalah program dari HIMATIK (Himpunan Mahasiswa Teknik Informatika dan Komputer) Politeknik Negeri Jakarta untuk mengenalkan lingkungan, budaya, dan kehidupan akademik di Jurusan TIK. Pada Day-1, materi pokoknya adalah workshop From AI to GitHub (prompt engineering, Git, dan GitHub), ditambah sesi pengenalan akademik dan laboratorium jurusan.
 
-## Struktur Repository
 
-```
-.
-├── README.md
-└── docs/
-    ├── 01-materi-dan-topik.md      # materi/topik yang disampaikan
-    ├── 02-catatan-rangkuman.md     # rangkuman tiap materi
-    └── 03-poin-penting.md          # poin penting dan pengetahuan baru
-```
 
-## Daftar Dokumentasi
 
-1. [Materi dan Topik Workshop](docs/01-materi-dan-topik.md)
-2. [Catatan dan Rangkuman Materi](docs/02-catatan-rangkuman.md)
-3. [Poin Penting dan Pengetahuan Baru](docs/03-poin-penting.md)
+
